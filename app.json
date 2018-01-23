@@ -1,0 +1,12 @@
+{
+  "name": "You2PHP",
+  "description": "You2PHP是一个用PHP开发的Youtube流量代理脚本",
+  "website": "https://you2php.github.io/",
+  "repository": "https://github.com/you2php/you2php",
+  "env":{
+    "htpasswd-generator":{
+      "description": "admin,123456/root,noadmin",
+      "value": "admin:$apr1$buBfDANy$PNalF6fxMMjMyBtZPkURV0"
+    }
+  }
+}
